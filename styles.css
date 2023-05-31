@@ -1,0 +1,50 @@
+.container {
+  margin: auto;
+  text-align: center;
+}
+
+body {
+  background-color: #393e46;
+}
+
+.contender {
+  text-align: center;
+  display: inline-block;
+  width: 22%;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Lobster", cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ecca3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ecca3;
+  font-family: "Indie Flower", cursive;
+}
+
+.options {
+  font-size: 4rem;
+  color: #4ecca3;
+  font-family: "Indie Flower", cursive;
+}
+
+img {
+  width: 40px;
+}
+
+.big {
+  width: 200px;
+}
+
+.winner {
+  font-size: 4rem;
+  color: #4ecca3;
+  font-family: "Indie Flower", cursive;
+  font-weight: bold;
+  margin: 0px;
+}
